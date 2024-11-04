@@ -1,0 +1,6 @@
+/Users/vadimkhalikov/CLionProjects/lab1/lib/circular-buffer/cmake-build-debug/CMakeFiles/circular_buffer.dir
+/Users/vadimkhalikov/CLionProjects/lab1/lib/circular-buffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vadimkhalikov/CLionProjects/lab1/lib/circular-buffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vadimkhalikov/CLionProjects/lab1/lib/circular-buffer/cmake-build-debug/tests/CMakeFiles/runCircularBufferTests.dir
+/Users/vadimkhalikov/CLionProjects/lab1/lib/circular-buffer/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/Users/vadimkhalikov/CLionProjects/lab1/lib/circular-buffer/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir

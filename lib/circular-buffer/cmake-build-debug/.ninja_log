@@ -1,0 +1,3 @@
+# ninja log v5
+0	516	1730441765088856468	CMakeFiles/circular-buffer_lib.dir/src/circular-buffer.o	225bdae8a63d22b9
+518	1235	1730441765812380000	libcircular-buffer_lib.a	fb22de33f51e3fb9
